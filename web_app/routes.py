@@ -1,6 +1,6 @@
 from flask import render_template
 from . import web_app
-from .computation_libs.fancy_int_operations import fancy_operations 
+from computation_libs.fancy_int_operations import fancy_operations 
 
 
 @web_app.route('/')
