@@ -1,5 +1,6 @@
+## Dépot pour un exercice sur le packaging d'un librairie Python et le testing.
 
-
+Une fois le corrigé récupéré dans la branche correction_finale.
 
 ```bash
 virtualenv -p python3 venv
